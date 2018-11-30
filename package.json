@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cssnano": "^4.1.7",
+    "gh-pages": "^2.0.1"
+  }
+}

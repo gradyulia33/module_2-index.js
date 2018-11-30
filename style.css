@@ -118,38 +118,6 @@ span:nth-child(4n-3) { color:hsl(30, 65%, 60%); text-shadow:1px 1px hsl(30, 45%,
 .main_button:hover{
 	background-color: #BCA9F5;
 }
-.right {
-	display: inline-block;
-	vertical-align: top;
-	width: 56.5%;
-}
-
-#slides {
-	display: inline-block;
-  position: relative;
-  height: 270px;
-  width: 100%;
-  margin: 0 auto;
-  list-style-type: none;
-}
-
-.slide {
-  position: relative;
-  left: 0px;
-  top: 0px;
-  opacity: 0;
-  z-index: 1;
-
-  -webkit-transition: opacity 2s;
-  -moz-transition: opacity 2s;
-  -o-transition: opacity 2s;
-  transition: opacity 2s;
-}
-
-.showing {
-  opacity: 1;
-  z-index: 2;
-}
 
 
 	.content{

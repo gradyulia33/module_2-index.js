@@ -129,12 +129,14 @@ span:nth-child(4n-3) { color:hsl(30, 65%, 60%); text-shadow:1px 1px hsl(30, 45%,
 .mySlides {display: none}
 img {vertical-align: middle;}
 	
-	/* Slideshow container */
-.slideshow-container {
-	max-width: 800px;
-	position: relative;
-	margin: auto;
-	background-size: cover;
+	/* Slideshow container */.slideshow-container {position: absolute;
+	max-width: 700px;
+	max-height: 400px;
+	position: absolute;
+	left: 35%;
+	bottom: 7%;
+	/* margin: auto; */
+	background-size: cover; 
   }
   
   /* Next & previous buttons */
@@ -172,12 +174,24 @@ img {vertical-align: middle;}
 	margin: 0 2px;
 	background-color: #bbb;
 	border-radius: 50%;
-	display: inline-block;
 	transition: background-color 0.6s ease;
   }
-  
+
+  .dots{
+	  position: relative;
+	  left: 56%;
+  }
+
+.dots .dot{
+	display: inline-block;
+	vertical-align: middle;
+}
+
   .active, .dot:hover {
 	background-color: #717171;
+  }
+  .active{
+	  display: block;
   }
   
   /* Fading animation */

@@ -4,8 +4,7 @@
   "description": " You could choose different activities for you and your children in Poltava using our site",
   "main": "index.html",
   "devDependencies": {
-    "cssnano": "^4.1.7",
-    "gh-pages": "^2.0.1"
+    "cssnano": "^4.1.7"
   },
   "contributors": [
     {
@@ -25,5 +24,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gradyulia33/our_portal-repository"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
   }
 }

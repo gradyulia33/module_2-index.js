@@ -1,5 +1,5 @@
 {
-  "name": " Sports, dance and arts club in Poltava",
+  "name": "poltava",
   "version": "1.0.0",
   "description": " You could choose different activities for you and your children in Poltava using our site",
   "main": "index.html",
@@ -7,23 +7,23 @@
     "cssnano": "^4.1.7",
     "gh-pages": "^2.0.1"
   },
-"contributors": [
-  {
-    "name": " Duschenko O."
+  "contributors": [
+    {
+      "name": " Duschenko O."
+    },
+    {
+      "name": " Vynohradova Yu."
+    },
+    {
+      "name": " Milchenko T"
+    }
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html"
   },
-  {
-    "name": " Vynohradova Yu."
-  },
-  {
-    "name": " Milchenko T"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradyulia33/our_portal-repository"
   }
-],
-"license": "MIT",
-"scripts": {
-  "start": "parcel ./src/index.html"
-},
-"repository": {
-  "type": "git",
-  "url": "git+https://github.com/gradyulia33/our_portal-repository"
-}
 }

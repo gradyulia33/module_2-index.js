@@ -201,15 +201,9 @@ img {vertical-align: middle;}
            width: 90%;
            margin-left: 10px;
            margin-right: 10px;
-<<<<<<< HEAD
-					 text-align: left;
-					 font-size: 14px;
+			text-align: left;
+		   font-size: 14px;
 	       }
-=======
-		   text-align: left;
-		   font-size: 17px;
-		   margin-top: 10px;}
->>>>>>> 88b5fad4d00bcdcc3a20ddc0bcd314c7a47d931c
 	  .img-news{ 
 				width: 220px;
 			    height:150px;
@@ -239,13 +233,11 @@ img {vertical-align: middle;}
 .cont {
     display: block;
     margin-bottom: 5px;
-
     }
  .name 
    {
     color: green;
     font-size: 18px;
-    font-family: 
     margin-bottom: 10px;
     width: 100%;
     text-align: center;

@@ -1,31 +1,22 @@
 {
-  "name": " Sports, dance and arts club in Poltava",
+  "name": "our_portal-repository",
   "version": "1.0.0",
-  "description": " You could choose different activities for you and your children in Poltava using our site",
-  "main": "index.html",
-  "devDependencies": {
-    "cssnano": "^4.1.7"
-  },
-  "contributors": [
-    {
-      "name": " Duschenko O."
-    },
-    {
-      "name": " Vynohradova Yu."
-    },
-    {
-      "name": " Milchenko T"
-    }
-  ],
-  "license": "MIT",
+  "description": "Sports, dance and arts club in Poltava",
+  "main": "workbox-config.js",
   "scripts": {
-    "start": "parcel ./src/index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gradyulia33/our_portal-repository"
+    "url": "git+https://github.com/gradyulia33/our_portal-repository.git"
   },
-  "dependencies": {
-    "gh-pages": "^2.0.1"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gradyulia33/our_portal-repository/issues"
+  },
+  "homepage": "https://github.com/gradyulia33/our_portal-repository#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.7"
   }
 }

@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "our_portal-repository",
-=======
-  "name": "poltava",
->>>>>>> 8add7f56b1f26db6b5203bc63ce6b8858b40e6d0
   "version": "1.0.0",
   "description": "Sports, dance and arts club in Poltava",
   "main": "workbox-config.js",
@@ -12,7 +8,6 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
     "url": "git+https://github.com/gradyulia33/our_portal-repository.git"
   },
   "author": "",
@@ -23,14 +18,8 @@
   "homepage": "https://github.com/gradyulia33/our_portal-repository#readme",
   "devDependencies": {
     "cssnano": "^4.1.7"
-=======
-    "url": "git+https://github.com/gradyulia33/our_portal-repository"
-<<<<<<< HEAD
-=======
   },
   "dependencies": {
     "gh-pages": "^2.0.1"
->>>>>>> f61f3298f5b169162762e8a7de13ea66a078e176
->>>>>>> 8add7f56b1f26db6b5203bc63ce6b8858b40e6d0
   }
 }

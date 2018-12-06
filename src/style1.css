@@ -188,8 +188,7 @@ img {vertical-align: middle;}
 .sport, .horeo, .art{margin:9%}
 	.sport1, .horeo1, .art1{display: inline-block;
           width:  29%;
-          height: 409px;
-          height: 400px;
+          height: 340px;
           border: 2px solid white;
           overflow: hidden;
           border-radius: 5px;
@@ -198,21 +197,59 @@ img {vertical-align: middle;}
           background:white;
           opacity:0.9;
 	    }
-    .name{color:green}
      .info{
-           width: 50%;
+           width: 90%;
            margin-left: 10px;
            margin-right: 10px;
+<<<<<<< HEAD
 					 text-align: left;
 					 font-size: 14px;
 	       }
+=======
+		   text-align: left;
+		   font-size: 17px;
+		   margin-top: 10px;}
+>>>>>>> 88b5fad4d00bcdcc3a20ddc0bcd314c7a47d931c
 	  .img-news{ 
-				width: 220px; height:150px;
-				margin-top: 10px;
+				width: 220px;
+			    height:150px;
 				margin-left: 10px;
 				margin-right: 10px;
 	            }
+.adress {
+    width: 34px; height: 34px;
+    background-position: left;
+    border:  2px dashed lightgreen;
+    border-radius: 100px;
+    background-attachment: fixed;
+    padding:3px;
+    margin-right: 10px;
+}
 
+ .phone {
+ 	width: 34px; height: 34px;
+ 	background-attachment: fixed;
+    background-position: left;
+    border:  2px dashed lightgreen;
+    border-radius: 100px;
+    padding:3px;
+    margin-right: 10px;
+}
+
+.cont {
+    display: block;
+    margin-bottom: 5px;
+
+    }
+ .name 
+   {
+    color: green;
+    font-size: 18px;
+    font-family: 
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
 .years{background-color:darkgrey; ;height: 100px; width: 100%;padding-left: 20px}
     .facebook{
               width: 24px;

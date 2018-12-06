@@ -126,7 +126,7 @@ img {vertical-align: middle;}
 	max-height: 400px;
 	position: absolute;
 	left: 35%;
-	bottom: 6%;
+	bottom: 2%;
 	/* margin: auto; */
 	background-size: cover; 
   }
@@ -155,32 +155,6 @@ img {vertical-align: middle;}
 	background-color: green;
   }
   
-  .dot {
-	cursor: pointer;
-	height: 15px;
-	width: 15px;
-	margin: 0 2px;
-	background-color: #bbb;
-	border-radius: 50%;
-	transition: background-color 0.6s ease;
-  }
-
-  .dots{
-	  position: relative;
-	  left: 56%;
-  }
-
-.dots .dot{
-	display: inline-block;
-	vertical-align: middle;
-}
-
-  .active, .dot:hover {
-	background-color: #717171;
-  }
-  .active{
-	  display: block;
-  }
   
   .fade {
 	-webkit-animation-name: fade;
@@ -227,9 +201,15 @@ img {vertical-align: middle;}
            width: 90%;
            margin-left: 10px;
            margin-right: 10px;
+<<<<<<< HEAD
+					 text-align: left;
+					 font-size: 14px;
+	       }
+=======
 		   text-align: left;
 		   font-size: 17px;
 		   margin-top: 10px;}
+>>>>>>> 88b5fad4d00bcdcc3a20ddc0bcd314c7a47d931c
 	  .img-news{ 
 				width: 220px;
 			    height:150px;

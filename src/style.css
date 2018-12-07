@@ -204,44 +204,20 @@ img {vertical-align: middle;}
 				   margin-left: 40%;
 				   
 				}
-     .info{display: inline-block;
+     .info{display: inline-flex;
            width: 55%;
            margin-left: 10px;
 	       }
 	  .img-news{ 
-				width: 115px; height:115px;
+				width: 115px; height:105px;
 				margin-top: 10px;
 				margin-left: 10px;
 				margin-right: 10px;
 	            }
 /*слайдер магазинов*/
-	 .recomend-wrapper{display:inline-block;
-				  width: 90%;
-				  height: 90%;
-				  margin-left: 5%;
-				  margin-right: 5%; 
-	 }
-     .market-block{display: inline-block;
-                   width:15%;
-                   height: 40%; 
-                   border: 2px solid black;
-				   border-radius: 3%;
-				   background:lightblue;
-				   opacity: 0.7;
-				   margin-left: 1%;
-					 }
-     .img-market {width: 115px; height:115px;
-		          margin: 1%;}
-	 .market-info{font-size:small}
 
 
-
-
-
-
-
-
-    .years{background-color:darkgrey; ;height: 100px; width: 100%;padding-left: 20px}
+.years{background-color:darkgrey; ;height: 100px; width: 100%;padding-left: 20px}
     .facebook{
               width: 24px;
               height: 22px;
